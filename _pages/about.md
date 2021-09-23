@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant professor, Complutense University of Madrid
 
 profile:
   align: right
@@ -13,12 +13,11 @@ profile:
     <p>28040 Madrid, Spain</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a climate scientist and glaciologist with expertise in several fields. My primary research relates to long time-scale Earth system stability and large-scale feedbacks in the context of past glacial cycles and future climate change (e.g., Robinson et al., Nat. Clim. Change, 2012; Robinson et al., Nat. Comm., 2017). In addition, I am interested in the modeling and analysis of extreme and abrupt climate events (e.g., Coumou and Robinson, Env. Res. Lett., 2013; Caesar et al., Nat., 2018), as well as the resilient design of hybrid renewable energy generation systems for changing climatic conditions (e.g., Petrakopoulou et al., Re. Ener., 2016, Petrakopoulou et al., J. Clean. Prod., 2020).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Check out my [publications](publications/) and [projects](projects/) for more information about my work.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
