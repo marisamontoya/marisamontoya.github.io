@@ -155,7 +155,7 @@ scholar:
   last_name: Robinson
   first_name: [Alexander, A.]
 
-  style: apa
+  style: copernicus-publications
   locale: en
 
   source: /_bibliography/
