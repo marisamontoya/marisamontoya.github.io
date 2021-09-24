@@ -9,26 +9,27 @@ nav: true
 
 <div class="publications">
 
-<h1>Articles</h1>
+<h2>Articles</h2>
 
-<h2>In progress</h2>
+<h3>In progress</h3>
 
-Robinson, A., Lehmann, J., Barriopedro, D., Rahmstorf, S. and Coumou, D.: Increasing heat and rainfall extremes now far outside the historical climate, NPJ Climate and Atmospheric Science, accepted.
+<b>Robinson, A.<\b>, Lehmann, J., Barriopedro, D., Rahmstorf, S. and Coumou, D.: Increasing heat and rainfall extremes now far outside the historical climate, NPJ Climate and Atmospheric Science, accepted.
 
 Born, A. and Robinson, A.: Modeling the Greenland englacial stratigraphy, The Cryosphere, https://doi.org/10.5194/tc-2020-355, accepted.
 
 Robinson, A., Goldberg, D., and Lipscomb, W. H.: A comparison of the performance of depth-integrated ice-dynamics solvers, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-239, in review, 2021.
 
-<h2 class="year">2021</h2>
+<h3>2021</h3>
 
 [41] Blasco, J., Alvarez-Solas, J., Robinson, A., and Montoya, M.: Exploring the impact of atmospheric forcing and basal drag on the Antarctic Ice Sheet under Last Glacial Maximum conditions, The Cryosphere, 15, 215–231, https://doi.org/10.5194/tc-15-215-2021, 2021.
 
-<h2 class="year">2020</h2>
+<h3>2020</h3>
 
 [40] Robinson, A., Alvarez-Solas, J., Montoya, M., Goelzer, H., Greve, R., and Ritz, C.: Description and validation of the ice-sheet model Yelmo (version 1.0), Geosci. Model Dev., 13, 2805–2823, https://doi.org/10.5194/gmd-13-2805-2020, 2020.
 
 [39] Petrakopoulou, F., Robinson, A., Olmeda-Delgado, M.: Impact of climate change on fossil fuel power-plant efficiency and water use, 273, 122816, doi: j.jclepro.2020.122816, 2020.
-2019
+
+<h3>2019</h3>
 
 [38] Tabone, I., Robinson, A., Alvarez-Solas, J., and Montoya, M.: Submarine melt as a potential trigger of the North East Greenland Ice Stream margin retreat during Marine Isotope Stage 3, The Cryosphere, 13, 1911–1923, https://doi.org/10.5194/tc-13-1911-2019, 2019.
 
@@ -40,7 +41,7 @@ Robinson, A., Goldberg, D., and Lipscomb, W. H.: A comparison of the performance
 
 [34] Tabone, I., Robinson, A., Alvarez-Solas, J. and Montoya, M.: Impact of millennial-scale oceanic variability on the Greenland ice-sheet evolution throughout the last glacial period, Clim. Past, 15(2), 593–609, doi:10.5194/cp-15-593-2019, 2019.
 
-2018 
+<h3>2018</h3>
 
 [33] Tabone, I., Blasco, J., Robinson, A., Alvarez-Solas, J. and Montoya, M.: The sensitivity of the Greenland Ice Sheet to glacial-interglacial oceanic forcing, Clim. Past, 14(4), 455–472, doi:10.5194/cp-14-455-2018, 2018.
 
@@ -50,7 +51,7 @@ Robinson, A., Goldberg, D., and Lipscomb, W. H.: A comparison of the performance
 
 [30] Pattyn, F., Ritz, C., Hanna, E., Asay-Davis, X., DeConto, R., Durand, G., Favier, L., Fettweis, X., Goelzer, H., Golledge, N. R., Kuipers Munneke, P., Robinson, A., et al.: The Greenland and Antarctic ice sheets under 1.5 °C global warming, Nat. Clim. Chang., doi:10.1038/s41558-018-0305-8, 2018.
 
-2017
+<h3>2017</h3>
 
 [29] Robinson, A., Alvarez-Solas, J., Calov, R., Ganopolski, A. and Montoya, M.: MIS-11 duration key to disappearance of the Greenland ice sheet, Nat. Commun., 8, doi:10.1038/ncomms16008, 2017.
 
@@ -69,7 +70,7 @@ Robinson, A., Goldberg, D., and Lipscomb, W. H.: A comparison of the performance
 
 [22] Reyer, C. P. O., Adams, S., Albrecht, T., Baarsch, F., Boit, A., Canales Trujillo, N., Cartsburg, M., Coumou, D., Eden, A., Fernandes, E., Langerwisch, F., Robinson, A., et al.: Climate change impacts in Latin America and the Caribbean and their implications for development, Reg. Environ. Chang., doi:10.1007/s10113-015-0854-6, 2015.
 
-2016 
+<h3>2016</h3>
 
 [21] Yau, A., Bender, M., Robinson, A. and Brook, E.: Reconstructing the Last Interglacial at Summit Greenland: Insights from GISP2, Proc. Natl. Acad. Sci. U. S. A., 113(35), 9710–9715, doi:10.1073/pnas.1524766113, 2016.
 
@@ -79,7 +80,7 @@ Robinson, A., Goldberg, D., and Lipscomb, W. H.: A comparison of the performance
 
 [18] Petrakopoulou, F., Robinson, A. and Loizidou, M.: Simulation and evaluation of a hybrid concentrating-solar and wind power plant for energy autonomy on islands, Renew. Energy, 96, 863–871, doi:10.1016/j.renene.2016.05.030, 2016.
 
-2015
+<h3>2015</h3>
 
 [17] Calov, R., Robinson, A., Perrette, M. and Ganopolski, A.: Simulating the Greenland ice sheet under present-day and palaeo constraints including a new discharge parameterization, Cryosph., 9, 179–196, doi:10.5194/tc-9-179-2015, 2015.
 
@@ -91,13 +92,13 @@ Robinson, A., Goldberg, D., and Lipscomb, W. H.: A comparison of the performance
 
 [13] Petrakopoulou, F., Robinson, A. and Loizidou, M.: Exergetic analysis and dynamic simulation of a solar-wind power plant with electricity storage and hydrogen generation, J. Clean. Prod., doi:10.1016/j.jclepro.2015.11.074, 2015.
 
-2014 
+<h3>2014</h3>
 
 [12] Banderas, R., Alvarez-Solas, J., Robinson, A. and Montoya, M.: An interhemispheric mechanism for glacial abrupt climate change, Clim. Dyn., (44), 2897–2908, doi:10.1007/s00382-014-2211-8, 2014.
 
 [11] Robinson, A. and Goelzer, H.: The importance of insolation for paleo ice sheet modeling, Cryosph., 8, 1419–1428, doi:10.5194/tc-8-1419-2014, 2014.
 
-2013 
+<h3>2013</h3>
 
 [10] Coumou, D., Robinson, A. and Rahmstorf, S.: Global increase in record-breaking monthly-mean temperatures, Clim. Change, 118(3–4), 771–782, doi:10.1007/s10584-012-0668-1, 2013.
 
@@ -107,28 +108,27 @@ Robinson, A., Goldberg, D., and Lipscomb, W. H.: A comparison of the performance
 
 [7] Coumou, D. and Robinson, A.: Historic and future increase in the global land area affected by monthly heat extremes, Environ. Res. Lett., 8(3), 034018, doi:10.1088/1748-9326/8/3/034018, 2013.
 
-2012 
+<h3>2012</h3>
 
 [6] Robinson, A., Calov, R. and Ganopolski, A.: Multistability and critical thresholds of the Greenland ice sheet, Nat. Clim. Chang., 2(4), 429–432, doi:10.1038/nclimate1449, 2012.
 
 [5] Alvarez-Solas, J., Robinson, A. and Ritz, C.: Brief communication “Can recent ice discharges following the Larsen-B ice-shelf collapse be used to infer the driving mechanisms of millennial-scale variations of the Laurentide ice sheet?,” Cryosph., 6(3), 687–693, doi:10.5194/tc-6-687-2012, 2012.
 
-2011
+<h3>2011</h3>
 
 [4] Robinson, A., Calov, R. and Ganopolski, A.: Greenland ice sheet model parameters constrained using simulations of the Eemian Interglacial, Clim. Past, 7(2), 381–396, doi:10.5194/cp-7-381-2011, 2011.
 
 [3] Ganopolski, A. and Robinson, A.: Palaeoclimate: The past is not the future, Nat. Geosci., 4(10), 661–663, doi:10.1038/ngeo1268, 2011.
 
-2010 
+<h3>2010</h3>
 
 [2] Robinson, A., Calov, R. and Ganopolski, A.: An efficient regional energy-moisture balance model for simulation of the Greenland Ice Sheet response to climate change, Cryosph., 4(2), 129–144, doi:10.5194/tc-4-129-2010, 2010.
 
-2007 
+<h3>2007</h3>
 
 [1] Keller, K., Robinson, A., Bradford, D. F. and Oppenheimer, M.: The regrets of procrastination in climate policy, Environ. Res. Lett., 2(2), 024004, doi:10.1088/1748-9326/2/2/024004, 2007.
 
-
-Commissioned Reports
+<h2>Commissioned Reports</h2>
 
 [4] Asian Development Bank: A Region at Risk: The Human Dimensions of Climate Change in Asia and the Pacific, Manila, Philippines [online] Available from: http://dx.doi.org/10.22617/TCS178839-2, 2017.
 
@@ -138,7 +138,7 @@ Commissioned Reports
 
 [1] World Bank: Turn Down the Heat: Why a 4°C Warmer World Must Be Avoided, Washington D.C. [online] Available from: http://hdl.handle.net/10986/11860, 2012.
 
-PhD thesis
+<h2>PhD thesis</h2>
 
 Robinson, A.: Modeling the Greenland Ice Sheet response to climate change in the past and future, University of Potsdam. [online] Available from: http://opus.kobv.de/ubp/volltexte/2011/5043/, 2011.
 
