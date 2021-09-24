@@ -2,14 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My publications by category, from latest to oldest.
+description: My <a href="#articles">articles</a>, <a href="#reports">reports</a> and <a href="#thesis">thesis</a>.
 years:
 nav: true
 ---
 
 <div class="publications">
 
-<h1>Articles</h1>
+<h1 id="articles">Articles</h1>
 
 <h3>In progress</h3>
 
@@ -186,7 +186,7 @@ Born, A. and <b>Robinson, A.</b>: Modeling the Greenland englacial stratigraphy,
 [1] Keller, K., <b>Robinson, A.</b>, Bradford, D. F. and Oppenheimer, M.: The regrets of procrastination in climate policy, Environ. Res. Lett., 2(2), 024004, doi:10.1088/1748-9326/2/2/024004, 2007.
 </p>
 
-<h1>Commissioned Reports</h1>
+<h1 id="reports">Commissioned Reports</h1>
 
 <p>
 [4] Asian Development Bank: A Region at Risk: The Human Dimensions of Climate Change in Asia and the Pacific, Manila, Philippines [online] Available from: http://dx.doi.org/10.22617/TCS178839-2, 2017.
@@ -201,7 +201,7 @@ Born, A. and <b>Robinson, A.</b>: Modeling the Greenland englacial stratigraphy,
 [1] World Bank: Turn Down the Heat: Why a 4°C Warmer World Must Be Avoided, Washington D.C. [online] Available from: http://hdl.handle.net/10986/11860, 2012.
 </p>
 
-<h1>PhD thesis</h1>
+<h1 id="thesis">PhD thesis</h1>
 
 <p>
 <b>Robinson, A.</b>: Modeling the Greenland Ice Sheet response to climate change in the past and future, University of Potsdam. [online] Available from: http://opus.kobv.de/ubp/volltexte/2011/5043/, 2011.
