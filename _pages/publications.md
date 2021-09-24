@@ -13,7 +13,7 @@ nav: true
 
 <h3>In progress</h3>
 
-<b>Robinson, A.<\b>, Lehmann, J., Barriopedro, D., Rahmstorf, S. and Coumou, D.: Increasing heat and rainfall extremes now far outside the historical climate, NPJ Climate and Atmospheric Science, accepted.
+<b>Robinson, A.</b>, Lehmann, J., Barriopedro, D., Rahmstorf, S. and Coumou, D.: Increasing heat and rainfall extremes now far outside the historical climate, NPJ Climate and Atmospheric Science, accepted.
 
 Born, A. and Robinson, A.: Modeling the Greenland englacial stratigraphy, The Cryosphere, https://doi.org/10.5194/tc-2020-355, accepted.
 
