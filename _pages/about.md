@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Complutense Unversity of Madrid</p>
-    <p>Facultad de Ciencias Físicas, Despacho 228.0</p>
-    <p>28040 Madrid, Spain</p>
+    <p style="font-size:70%;">Complutense Unversity of Madrid</p>
+    <p style="font-size:70%;">Facultad de Ciencias Físicas, Despacho 228.0</p>
+    <p style="font-size:70%;">28040 Madrid, Spain</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

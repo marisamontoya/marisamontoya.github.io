@@ -14,13 +14,13 @@ nav: true
 <h3>In progress</h3>
 
 <p>
+<b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the performance of depth-integrated ice-dynamics solvers, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-239, in review, 2021.
+</p>
+<p>
 <b>Robinson, A.</b>, Lehmann, J., Barriopedro, D., Rahmstorf, S. and Coumou, D.: Increasing heat and rainfall extremes now far outside the historical climate, NPJ Climate and Atmospheric Science, accepted.
 </p>
 <p>
 Born, A. and <b>Robinson, A.</b>: Modeling the Greenland englacial stratigraphy, The Cryosphere, https://doi.org/10.5194/tc-2020-355, accepted.
-</p>
-<p>
-<b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the performance of depth-integrated ice-dynamics solvers, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-239, in review, 2021.
 </p>
 
 <h3>2021</h3>
