@@ -37,7 +37,7 @@ I also work to support the resilient design of hybrid renewable energy generatio
 
 Check out my [publications](publications/) and [research](research/) for more information about my work.
 
-<b>I am always interested in starting new collaborations. Please contact me!<b/>
+<b>I am always interested in starting new collaborations. Please contact me!</b><br/>[See icons at the bottom of the page for contact info.]
 
 <hr/>
 
