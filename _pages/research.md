@@ -11,6 +11,11 @@ nav: true
 
 Yelmo is a state-of-the-art, open-source 3D ice sheet model developed in the PalMA-ice research group at the UCM. 
 
+<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/yelmo_domain_color.png' | relative_url }}" alt="" title="Example ice-sheet domain and boundary conditions"/>
+<div class="caption">
+    Typical continental-scale ice-sheet domain with possible interactions with external systems.
+</div>
+
 <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2019-06-13_ant_pd_lgm-1024x465.png' | relative_url }}" alt="" title="example image"/>
 <div class="caption">
     Steady-state simulations of the Antarctic ice sheet at present-day (left) and the Last Glacial Maximum (right) using Yelmo.
