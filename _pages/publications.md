@@ -32,14 +32,14 @@ nav: true
 <p>
 <b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the performance of depth-integrated ice-dynamics solvers, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-239, in review, 2021.
 </p>
-<p>
-<b>Robinson, A.</b>, Lehmann, J., Barriopedro, D., Rahmstorf, S. and Coumou, D.: Increasing heat and rainfall extremes now far outside the historical climate, NPJ Climate and Atmospheric Science, accepted.
-</p>
 
 <h3 id="2021">2021</h3>
 
 <p>
-Born, A. and <b>Robinson, A.</b>: Modeling the Greenland englacial stratigraphy, The Cryosphere, 15, 4539–4556, https://doi.org/10.5194/tc-15-4539-2021, 2021.
+[43] <b>Robinson, A.</b>, Lehmann, J., Barriopedro, D., Rahmstorf, S. and Coumou, D.: Increasing heat and rainfall extremes now far outside the historical climate, NPJ Climate and Atmospheric Science, 45, 1-4, doi: 10.1038/s41612-021-00202-w, 2021.
+</p>
+<p>
+[42] Born, A. and <b>Robinson, A.</b>: Modeling the Greenland englacial stratigraphy, The Cryosphere, 15, 4539–4556, https://doi.org/10.5194/tc-15-4539-2021, 2021.
 </p>
 <p>
 [41] Blasco, J., Alvarez-Solas, J., <b>Robinson, A.</b>, and Montoya, M.: Exploring the impact of atmospheric forcing and basal drag on the Antarctic Ice Sheet under Last Glacial Maximum conditions, The Cryosphere, 15, 215–231, https://doi.org/10.5194/tc-15-215-2021, 2021.
