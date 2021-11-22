@@ -7,6 +7,16 @@ years:
 nav: true
 ---
 
+**Summary**
+
+- <a href="#articles">43 ISI articles</a>
+- <a href="#reports">4 peer-reviewed commissioned reports</a>
+- 30+ conference presentations (7 invited)
+
+<a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en">
+Google Scholar profile
+</a>
+
 [
 <a href="#2021">2021</a>, 
 <a href="#2020">2020</a>, 
