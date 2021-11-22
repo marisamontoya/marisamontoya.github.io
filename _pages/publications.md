@@ -13,9 +13,13 @@ nav: true
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (7 invited)
 
-<a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en">
+<a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en" target="_blank">
 Google Scholar profile
 </a>
+
+<div class="publications">
+
+<h1 id="articles">Articles</h1>
 
 [
 <a href="#2021">2021</a>, 
@@ -32,10 +36,6 @@ Google Scholar profile
 <a href="#2010">2010</a>, 
 <a href="#2007">2007</a>
 ]
-
-<div class="publications">
-
-<h1 id="articles">Articles</h1>
 
 <h3>In progress</h3>
 
