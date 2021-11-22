@@ -15,7 +15,7 @@ nav: true
 
 <a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en" target="_blank">
 Google Scholar profile
-</a><br\>
+</a><br />
 <a href="https://www.scopus.com/authid/detail.uri?authorId=35220447400" target="_blank">
 Scopus profile
 </a>
@@ -40,7 +40,7 @@ Scopus profile
 <a href="#2007">2007</a>
 ]
 
-<br\><br\>
+<br /><br />
 
 <h3>In progress</h3>
 
