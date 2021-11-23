@@ -7,6 +7,15 @@ years:
 nav: true
 ---
 
+<h2>Extremes</h2>
+
+I have built several tools for analyzing temperature distributions in data and models. Using this approach, we have diagnosed the change in probability of occurance of extreme monthly temperatures around the world (Coumou and Robinson, 2013; Robinson et al., 2021).
+
+<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2021-10-05-extremes/Robinson2021_extra_pdfs.png' | relative_url }}" alt="" title="Reference (1951-1980) and current (2011-2020) monthly temperature distributions."/>
+<div class="caption">
+    Reference (1951-1980) and current (2011-2020) monthly temperature distributions. A clear shift has occurred over the last decade. The dashed line shows the factor increase in probability to have a monthly temperature at or above the level indicated (e.g., there has been a 1000x increase in the probability of having a 4-sigma event or higher). 
+</div>
+
 <h2>Yelmo ice-sheet model</h2>
 
 Yelmo is a state-of-the-art, open-source 3D ice sheet model developed in the PalMA-ice research group at the UCM. 
