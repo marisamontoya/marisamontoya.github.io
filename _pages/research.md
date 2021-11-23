@@ -13,7 +13,7 @@ I have built several tools for analyzing temperature distributions in data and m
 
 <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2021-10-05-extremes/Robinson2021_extra_pdfs.png' | relative_url }}" alt="" title="Reference (1951-1980) and current (2011-2020) monthly temperature distributions."/>
 <div class="caption">
-    Reference (1951-1980) and current (2011-2020) monthly temperature distributions. A clear shift has occurred over the last decade. The dashed line shows the factor increase in probability to have a monthly temperature at or above the level indicated (e.g., there has been a 1000x increase in the probability of having a 4-sigma event or higher). 
+    Reference (1951-1980) and current (2011-2020) monthly temperature distributions. A clear shift has occurred over the last decades. The dashed line shows the factor increase in probability to have a monthly temperature at or above the level indicated (e.g., there has been a 1000x increase in the probability of having a 4-sigma event or higher). 
 </div>
 
 See <a href="/news/2021-10-05-extremes">Extremes news</a> for more details.
