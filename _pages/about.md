@@ -41,6 +41,8 @@ Here I work to support the resilient design of hybrid renewable energy generatio
 
 Check out my [publications](publications/) and [research](research/) for more information about my work.
 
+Also, see the [website of the Paleoclimate Modeling and Analysis (PalMA) group](https://www.ucm.es/palma) I belong to at the UCM.
+
 <b>I am always interested in starting new collaborations. Please contact me!</b><br/>[See icons at the bottom of the page for contact info.]
 
 <hr/>
