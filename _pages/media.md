@@ -9,6 +9,8 @@ nav: true
 
 <h3 id="2021">2021</h3>
 
+<a href="https://www.ecoshock.org/2021/12/extreme-we-just-left-the-old-climate-behind.html" target="_blank">EXTREME: We Just Left the Old Climate Behind</a>. Interview with Radio Ecoshock. 8 Dec 2021.
+
 <a href="https://phys.org/news/2021-11-global-frequency-extreme-hot-weather.html" target="_blank">Global warming speeds up the frequency of extreme hot weather and rainfall</a>. Phys.org. 16 Nov 2021.
 
 <a href="https://www.sciencedaily.com/releases/2021/10/211007122218.htm" target="_blank">Unprecedented rise of heat and rainfall extremes in observational data</a>. Science Daily. 7 Oct 2021.
