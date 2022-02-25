@@ -9,7 +9,7 @@ nav: true
 
 **Summary**
 
-- <a href="#articles">43 ISI articles</a>
+- <a href="#articles">44 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (7 invited)
 
@@ -25,6 +25,7 @@ Scopus profile
 <h1 id="articles">Articles</h1>
 
 [
+<a href="#2022">2022</a>,
 <a href="#2021">2021</a>, 
 <a href="#2020">2020</a>, 
 <a href="#2019">2019</a>, 
@@ -42,10 +43,12 @@ Scopus profile
 
 <br /><br />
 
-<h3>In progress</h3>
+<!-- <h3>In progress</h3> -->
+
+<h3 id="2022">2022</h3>
 
 <p>
-<b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the performance of depth-integrated ice-dynamics solvers, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-239, in review, 2021.
+<b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the stability and performance of depth-integrated ice-dynamics solvers, The Cryosphere, 16, 689–709, https://doi.org/10.5194/tc-16-689-2022, 2022.
 </p>
 
 <h3 id="2021">2021</h3>
