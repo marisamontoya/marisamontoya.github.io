@@ -48,7 +48,7 @@ Scopus profile
 <h3 id="2022">2022</h3>
 
 <p>
-<b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the stability and performance of depth-integrated ice-dynamics solvers, The Cryosphere, 16, 689–709, https://doi.org/10.5194/tc-16-689-2022, 2022.
+[44] <b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the stability and performance of depth-integrated ice-dynamics solvers, The Cryosphere, 16, 689–709, https://doi.org/10.5194/tc-16-689-2022, 2022.
 </p>
 
 <h3 id="2021">2021</h3>
