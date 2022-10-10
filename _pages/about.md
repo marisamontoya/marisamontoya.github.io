@@ -10,6 +10,7 @@ profile:
   address: >
     <p style="font-size:70%;">
     <a href="https://goo.gl/maps/S6yUhQdTi7ejQ7Ro6" target="_blank">
+    Dpt. Earth Physics and Astrophysics<br/>
     Complutense University of Madrid<br/>
     Facultad de Ciencias Físicas, Office 319.0<br/>
     28040 Madrid, Spain</a></p>
