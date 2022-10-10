@@ -8,7 +8,26 @@ display_categories: [work, fun]
 horizontal: false
 
 <p>
-[41] Blasco, J., Alvarez-Solas, J., Robinson, A., and Montoya, M.: Exploring the impact of atmospheric forcing and basal drag on the Antarctic Ice Sheet under Last Glacial Maximum conditions, The Cryosphere, 15, 215–231, https://doi.org/10.5194/tc-15-215-2021, 2021.
+2021-2024:  Modelling  ice-ocean interactions and dynamic discharge in the Antarctic Ice Sheet, Principal Investigator  M. Montoya, Spanish Ministry for Science, 145000 €
 </p>
+
+<p>
+2021-2024         Multi-scales and Critical Transitions in the Earth System. Horizon 2020. Coordinators: P. Ditlevsen, N. Boers;  PI at UCM M. Montoya, 251000 €       
+</p>
+
+<p>
+
+</p>
+
+
+<p>
+
+</p>
+
+
+<p>
+
+</p>
+
 
 </div>
