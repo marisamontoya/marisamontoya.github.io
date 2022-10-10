@@ -7,18 +7,6 @@ years:
 nav: true
 ---
 
-**Summary**
-
-- <a href="#articles">44 ISI articles</a>
-- <a href="#reports">4 peer-reviewed commissioned reports</a>
-- 30+ conference presentations (7 invited)
-
-<a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en" target="_blank">
-Google Scholar profile
-</a><br />
-<a href="https://www.scopus.com/authid/detail.uri?authorId=35220447400" target="_blank">
-Scopus profile
-</a>
 
 <div class="publications">
 
