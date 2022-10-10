@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Associate professor, <em>Complutense University of Madrid</em><br/>
+description: Associate professor, <em>Department of Earth Physics and Astrophysics, Complutense University of Madrid</em><br/>
 
 profile:
   align: right
