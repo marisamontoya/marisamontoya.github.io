@@ -6,7 +6,7 @@ description: Associate professor, <em>Complutense University of Madrid</em><br/>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: foto_mmr.jpg
   address: >
     <p style="font-size:70%;">
     <a href="https://goo.gl/maps/S6yUhQdTi7ejQ7Ro6" target="_blank">
