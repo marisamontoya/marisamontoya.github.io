@@ -11,7 +11,7 @@ profile:
     <p style="font-size:70%;">
     <a href="https://goo.gl/maps/S6yUhQdTi7ejQ7Ro6" target="_blank">
     Complutense University of Madrid<br/>
-    Facultad de Ciencias Físicas, Despacho 228.0<br/>
+    Facultad de Ciencias Físicas, Office 319.0<br/>
     28040 Madrid, Spain</a></p>
 
 news: true  # includes a list of news items
