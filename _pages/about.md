@@ -21,24 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 <hr style="width:65%;text-align:left;margin-left:0">
 
-I am a climate scientist and glaciologist with expertise in several areas. My work falls into three primary research lines:
-
-**Earth-system stability.**
-This work is focused on understanding long time-scale Earth system stability and large-scale feedbacks in the context of past glacial cycles and future climate change (e.g., 
-<a href="https://www.nature.com/articles/nclimate1449" target="_blank">Robinson et al., Nat. Clim. Change, 2012</a>; 
-<a href="https://www.nature.com/articles/ncomms16008" target="_blank">Robinson et al., Nat. Comm., 2017</a>).
-
-**Climate extremes and risks.**
-To assess future societal risk due to climate change, I am interested in the modeling and analysis of extreme and abrupt climate events (e.g., 
-<a href="https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034018" target="_blank">Coumou and Robinson, Env. Res. Lett., 2013</a>; 
-<a href="https://www.nature.com/articles/s41586-018-0006-5" target="_blank">Caesar et al., Nat., 2018</a>; 
-<a href="https://www.nature.com/articles/s41586-018-0006-5" target="_blank">Robinson et al., npj Atmos.Nat., 2021</a>).
-
-**Energy-system resilience.**
-Here I work to support the resilient design of hybrid renewable energy generation systems for changing climatic conditions (e.g., 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148116304414?via%3Dihub" target="_blank">Petrakopoulou et al., Re. Ener., 2016</a>; 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652620328614?via%3Dihub" target="_blank">Petrakopoulou et al., J. Clean. Prod., 2020</a>).
-
+I am a climate scientist with expertise in several areas. 
 Check out my [publications](publications/) and [research](research/) for more information about my work.
 
 Also, see the [website of the Paleoclimate Modeling and Analysis (PalMA) group](https://www.ucm.es/palma) I belong to at the UCM.
