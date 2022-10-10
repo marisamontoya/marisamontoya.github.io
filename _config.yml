@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Alexander
+first_name: Marisa
 middle_name: 
-last_name: Robinson
-email: robinson@ucm.es
+last_name: Montoya
+email: mmontoya@ucm.es
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Climate science
 footer_text: >
