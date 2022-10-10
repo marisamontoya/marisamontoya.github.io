@@ -15,7 +15,7 @@ profile:
     Facultad de Ciencias Físicas, Office 319.0<br/>
     28040 Madrid, Spain</a></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
