@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 <hr style="width:65%;text-align:left;margin-left:0">
 
 I am a climate scientist with expertise in several areas. 
-Check out my [publications](publications/) and [research](research/) for more information about my work.
+Check out my [publications](publications/) for more information about my work.
 
 Also, see the [website of the Paleoclimate Modeling and Analysis (PalMA) group](https://www.ucm.es/palma) I belong to at the UCM.
 
