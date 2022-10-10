@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant professor, <em>Complutense University of Madrid</em><br/>Affiliate scientist, <em>National Center for Atmospheric Research</em><br/>Guest scientist, <em>Potsdam Institute for Climate Impact Research</em>
+description: Associate professor, <em>Complutense University of Madrid</em><br/>
 
 profile:
   align: right
