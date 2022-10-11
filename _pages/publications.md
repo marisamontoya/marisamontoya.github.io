@@ -98,12 +98,25 @@ Banderas, R., Alvarez-Solas, J., Robinson, A. and Montoya, M.: An interhemispher
 Alvarez-Solas, J., Robinson, A., Montoya, M. and Ritz, C.: Iceberg discharges of the last glacial period driven by oceanic circulation changes, Proc. Natl. Acad. Sci. U. S. A., doi:10.1073/pnas.1306622110, 2013.
 </p>
 
+ <p>
+Ortega, P., M. Montoya, J. F. González-Rouco, H. Beltrami, and D. Swingedouw: Variability of the ocean heat content during the last millennium – an assessment with the ECHO-g Model. Climate of the Past, 9, 547-565, doi:10.5194/cp-9-547-2013
+</p>
+  
 
 <h3 id="2012">2012</h3>
+ 
+<p>
+Banderas, R., J. Álvarez-Solas, M. Montoya: Role of CO2 and Southern Ocean winds in glacial abrupt climate change REF. REVISTA/LIBRO: Clim. Past 8, 1011–1021, 2012 (www.clim-past.net/8/1011/2012/, doi:10.5194/cp-8-1011-2012)
+</p>
 
 <h3 id="2011">2011</h3>
 
+<p>
+Álvarez-Solas, J., M. Montoya, C. Ritz, G. Ramstein, S. Charbit, Nisancioglu, T. Dokken, C. Dumas, A. Ganopolski. Heinrich event 1: an example of dynamical ice-sheet reaction to oceanic changes. Clim. Past, 7, 1297-1306 (http://www.clim- past.net/7/1297/2011/, doi:10.5194/cp-7-1297-2011)
+</p>
+  
 <h3 id="2010">2010</h3>
 
+ 
 
 </div>
