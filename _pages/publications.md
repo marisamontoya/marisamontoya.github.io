@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My <a href="#articles">articles</a>, <a href="#reports">reports</a> and <a href="#thesis">thesis</a>.
+description: My <a href="#articles">articles</a>, <a href="#book-chapters">book-chapters</a> and <a href="#thesis">thesis</a>.
 years:
 nav: true
 ---
