@@ -13,8 +13,8 @@ profile:
     Dpt. Earth Physics and Astrophysics<br/>
     Complutense University of Madrid<br/>
     Facultad de Ciencias Físicas, Office 319.0<br/>
-    28040 Madrid, Spain</a></p>
-    Tel. + 34 394 4371<br/>
+    28040 Madrid, Spain<br/>
+    Tel. + 34 394 4371</a></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
