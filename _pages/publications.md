@@ -226,4 +226,12 @@ Rodriguez-Camino E., J. A. Parodi-Perdomo, J. F. Gonzalez-Rouco, M. Montoya. Pro
 </p>
 
 
+</div>
 
+<h1 id="thesis">PhD Thesis</h1>
+
+<p>
+Climate simulations for the last interglacial by means of climate models of different complexity. University of Hamburg, Germany.
+</p>
+
+</div>
