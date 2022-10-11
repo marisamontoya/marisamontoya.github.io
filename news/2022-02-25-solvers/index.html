@@ -11,7 +11,7 @@
   Marisa  Montoya
 
 
-  | blog
+  | Performance of ice-dynamics solvers.
 
 </title>
 <meta name="description" content="Climate science
@@ -47,7 +47,7 @@
 <!-- end favicon -->
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/news/2022-02-25-solvers/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -131,8 +131,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/projects/">
                 projects
@@ -187,58 +185,33 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">Performance of ice-dynamics solvers.</h1>
+    <p class="post-meta">February 25, 2022</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">May 22, 2021</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-  </ul>
+  <article class="post-content">
+    <p>Five ice-dynamics solvers were implemented in Yelmo and tested for numerical performance. The DIVA solver comes out as the clear winner, especially as resolution increases.</p>
+
+<p><img class="img-fluid rounded z-depth-1" src="/assets/img/2022-02-25-solvers/Fig02_2021-12-18_solvers_topovel_GRL-8KM.png" alt="" title="GrIS simulated with different solvers" /></p>
+<div class="caption">
+    The Greenland ice sheet simulated with five different ice-dynamics solvers.
+</div>
+
+<p>Analytical results combined with numerical simulations show that the Hybrid and L1L2-SIA solvers maintain a quadratic dependence of the maximum stable timestep with grid resolution, while the DIVA and SSA solvers can use much larger timesteps and remain stable.</p>
+
+<p><img class="img-fluid rounded z-depth-1" src="/assets/img/2022-02-25-solvers/Fig03c_2021-12-18_solvers_speed-ratio.png" alt="" title="Speed ratio of different solvers against the DIVA solver" /></p>
+<div class="caption">
+    Ratio of model performance (speed) for different solvers compared to the DIVA solver.
+</div>
+
+  </article>
 
   
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-
 
 </div>
 
