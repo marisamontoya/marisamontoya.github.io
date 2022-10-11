@@ -109,6 +109,10 @@ Ortega, P., M. Montoya, J. F. González-Rouco, H. Beltrami, and D. Swingedouw: V
 Banderas, R., J. Álvarez-Solas, M. Montoya: Role of CO2 and Southern Ocean winds in glacial abrupt climate change REF. REVISTA/LIBRO: Clim. Past 8, 1011–1021, 2012 (www.clim-past.net/8/1011/2012/, doi:10.5194/cp-8-1011-2012)
 </p>
 
+<p>
+Ortega, P., M. Montoya, J. F. González-Rouco, J. Mignot, S. Legutke. Variability of the Atlantic meridional overturning circulation in the last millennium and two IPCC scenarios. Clim Dyn. 38, 1925-1947, doi: 10.1007/s00382-011-1081-6
+</p>
+  
 <h3 id="2011">2011</h3>
 
 <p>
@@ -117,6 +121,19 @@ Banderas, R., J. Álvarez-Solas, M. Montoya: Role of CO2 and Southern Ocean wind
   
 <h3 id="2010">2010</h3>
 
- 
-
+<p>
+M. Montoya, A. Born, A. Levermann. Reversed North Atlantic gyre dynamics in present and glacial climates. Climate Dynamics, 36, 1107-1118 (2011), DOI: 10.1007/s00382-009-0729-y.
+</p>
+  
+M. Montoya, A. Levermann. Surface wind-stress threshold for glacial Atlantic overturning. Geophysical Research Letters, 35 (2008), L03608, DOI:
+10.1029/2007GL032560 
+  
+Levermann, A., J. Schewe, M. Montoya. Lack of bipolar see-saw in response to Southern Ocean wind reduction. Geophysical Research Letters, 34 (2007), L12711. doi:10.1029/2007GL030255
+  
+  
+Kuhlbrodt, T., A. Griesel, M. Montoya, A. Levermann, M. Hoffmann, S. Rahmstorf. On the driving processes of the oceanic meridional overturning circulation.  Reviews of Geophysics 45 (1), RG2001, 1-32 (2007)  
+  
+  
+Otto-Bliesner, B. L., S. J. Marshall, J. T. Overpeck, G. H. Miller, A. Hu and CAPE Last Interglacial Project members (P. Anderson, O. Bennike, N. Bigelow, J. Brigham-Grette, M. Duvall, M. Edwards, B. Frechette, S. Funder, S. Johnsen, J. Knies, R. Koerner, A. Lozhkin, G. MacDonald, S. Marshall, J. Matthiessen, G. Miller, M. Montoya, D. Muhs, B. Otto-Bliesner, J. Overpeck, N. Reeh, H. P. Sejrup, C. Turner, A. Velichko). Last Interglacial Arctic warmth confirms polar amplification of climate change. Quat. Sci. Revs. 25 (2006) 1383-1400. DOI:10.1016/j.quascirev.2006.01.033
+  
 </div>
