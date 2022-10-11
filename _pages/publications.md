@@ -41,8 +41,6 @@ nav: true
 
 <!-- <h3>In progress</h3> -->
 
-<h3 id="2022">2022</h3>
-
 
 <h3 id="2021">2021</h3>
 
@@ -127,16 +125,19 @@ Ortega, P., M. Montoya, J. F. González-Rouco, J. Mignot, S. Legutke. Variabilit
 Álvarez-Solas, J., M. Montoya, C. Ritz, G. Ramstein, S. Charbit, Nisancioglu, T. Dokken, C. Dumas, A. Ganopolski. Heinrich event 1: an example of dynamical ice-sheet reaction to oceanic changes. Clim. Past, 7, 1297-1306 (http://www.clim- past.net/7/1297/2011/, doi:10.5194/cp-7-1297-2011)
 </p>
   
-<h3 id="2010">2010</h3>
 
 <p>
 M. Montoya, A. Born, A. Levermann. Reversed North Atlantic gyre dynamics in present and glacial climates. Climate Dynamics, 36, 1107-1118 (2011), DOI: 10.1007/s00382-009-0729-y.
 </p>
 
+<h3 id="2008">2008</h3>
+  
 <p>
 M. Montoya, A. Levermann. Surface wind-stress threshold for glacial Atlantic overturning. Geophysical Research Letters, 35 (2008), L03608, DOI:
 10.1029/2007GL032560 
 </p>
+  
+<h3 id="2007">2007</h3>
   
 <p>
 Levermann, A., J. Schewe, M. Montoya. Lack of bipolar see-saw in response to Southern Ocean wind reduction. Geophysical Research Letters, 34 (2007), L12711. doi:10.1029/2007GL030255
@@ -145,6 +146,8 @@ Levermann, A., J. Schewe, M. Montoya. Lack of bipolar see-saw in response to Sou
 <p>  
 Kuhlbrodt, T., A. Griesel, M. Montoya, A. Levermann, M. Hoffmann, S. Rahmstorf. On the driving processes of the oceanic meridional overturning circulation.  Reviews of Geophysics 45 (1), RG2001, 1-32 (2007)  
 </p>
+  
+<h3 id="2006">2006</h3>
   
 <p>  
 Otto-Bliesner, B. L., S. J. Marshall, J. T. Overpeck, G. H. Miller, A. Hu and CAPE Last Interglacial Project members (P. Anderson, O. Bennike, N. Bigelow, J. Brigham-Grette, M. Duvall, M. Edwards, B. Frechette, S. Funder, S. Johnsen, J. Knies, R. Koerner, A. Lozhkin, G. MacDonald, S. Marshall, J. Matthiessen, G. Miller, M. Montoya, D. Muhs, B. Otto-Bliesner, J. Overpeck, N. Reeh, H. P. Sejrup, C. Turner, A. Velichko). Last Interglacial Arctic warmth confirms polar amplification of climate change. Quat. Sci. Revs. 25 (2006) 1383-1400. DOI:10.1016/j.quascirev.2006.01.033
@@ -157,6 +160,8 @@ Otto-Bliesner, B. L., S. J. Marshall, J. T. Overpeck, G. H. Miller, A. Hu and CA
 <p>
 Stouffer, R.J., J. Yin, J.M. Gregory, K.W. Dixon, M.J. Spelman, W. Hurlin, A.J. Weaver, M. Eby, G.M. Flato, H. Hasumi, A. Hu, J.H. Jungclaus, I.V. Kamenkovich, A. Levermann, M. Montoya, S. Murakami, S. Nawrath, A. Oka, W.R. Peltier, D.Y. Robitaille, A.P. Sokolov, G. Vettoretti, N. Weber. Investigating the Causes of the Response of the Thermohaline Circulation to Past and Future Climate Changes. Journal of Climate 19, 1365-1387 (2006) 
 </p>  
+  
+<h3 id="2005">2005</h3>
 
 <p>
 Petoukhov V., M. Claussen, A. Berger, M. Crucifix, M. Eby, A. Eliseev, T. Fichefet, A. Ganopolski, H. Goose, I. Kamenkovich, I. Mokhov, M. Montoya, L. Mysak, A. Sokolov, P. Stone, Z. Wang, A. Weaver. EMIC Intercomparison Project (EMIP-CO2): Comparative analysis of EMIC simulations of current climate and equilibrium and transient responses to atmospheric CO2 doubling. Climate Dynamics 25, 363-385 (2005) DOI: 10.1007/s00382- 005-0042-3 
@@ -174,10 +179,16 @@ Gregory, J. M., K.W. Dixon, R.J. Stouffer, A.J. Weaver, E. Driesschaert, M. Eby,
 Levermann, A., A. Griesel, M. Hofmann, M. Montoya, S. Rahmstorf. Dynamic sea level changes following changes in the thermohaline circulation. Climate Dynamics 24, 347-254 (2005) DOI: 10.1007/s00382-004-0505-y
 </p> 
   
+  
+<h3 id="2004">2004</h3>
+  
+  
 <p>
 Bauer, E., A. Ganopolski, M. Montoya. Simulation of the cold climate event 8200 years ago by meltwater outburst from
 Lake Agassiz. Paleoceanography 19, PA3014 (2004) DOI: 10.1029/2004PA001030
 </p>
+  
+<h3 id="2000">2000</h3>  
   
 <p>  
 Kubatzki C., Montoya M., Rahmstorf S., Ganopolski A., Claussen M. Comparison of a coupled global model of intermediate complexity and an AOGCM for the last interglacial. Climate Dynamics 16 (10/11), 799-814. DOI: 10.1007/s003820000078 (2000)  
