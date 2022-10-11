@@ -124,48 +124,65 @@ Ortega, P., M. Montoya, J. F. González-Rouco, J. Mignot, S. Legutke. Variabilit
 <p>
 M. Montoya, A. Born, A. Levermann. Reversed North Atlantic gyre dynamics in present and glacial climates. Climate Dynamics, 36, 1107-1118 (2011), DOI: 10.1007/s00382-009-0729-y.
 </p>
-  
+
+<p>
 M. Montoya, A. Levermann. Surface wind-stress threshold for glacial Atlantic overturning. Geophysical Research Letters, 35 (2008), L03608, DOI:
 10.1029/2007GL032560 
+</p>
   
+<p>
 Levermann, A., J. Schewe, M. Montoya. Lack of bipolar see-saw in response to Southern Ocean wind reduction. Geophysical Research Letters, 34 (2007), L12711. doi:10.1029/2007GL030255
+</p>
   
-  
+<p>  
 Kuhlbrodt, T., A. Griesel, M. Montoya, A. Levermann, M. Hoffmann, S. Rahmstorf. On the driving processes of the oceanic meridional overturning circulation.  Reviews of Geophysics 45 (1), RG2001, 1-32 (2007)  
+</p>
   
-  
+<p>  
 Otto-Bliesner, B. L., S. J. Marshall, J. T. Overpeck, G. H. Miller, A. Hu and CAPE Last Interglacial Project members (P. Anderson, O. Bennike, N. Bigelow, J. Brigham-Grette, M. Duvall, M. Edwards, B. Frechette, S. Funder, S. Johnsen, J. Knies, R. Koerner, A. Lozhkin, G. MacDonald, S. Marshall, J. Matthiessen, G. Miller, M. Montoya, D. Muhs, B. Otto-Bliesner, J. Overpeck, N. Reeh, H. P. Sejrup, C. Turner, A. Velichko). Last Interglacial Arctic warmth confirms polar amplification of climate change. Quat. Sci. Revs. 25 (2006) 1383-1400. DOI:10.1016/j.quascirev.2006.01.033
+</p>
   
+<p>
 Otto-Bliesner, B. L., S. J. Marshall, J. T. Overpeck, G. H. Miller, A. Hu and CAPE Last Interglacial Project members (P. Anderson, O. Bennike, N. Bigelow, J. Brigham-Grette, M. Duvall, M. Edwards, B. Frechette, S. Funder, S. Johnsen, J. Knies, R. Koerner, A. Lozhkin, G. MacDonald, S. Marshall, J. Matthiessen, G. Miller, M. Montoya, D. Muhs, B. Otto-Bliesner, J. Overpeck, N. Reeh, H. P. Sejrup, C. Turner, A. Velichko). Simulating Arctic climate warmth and icefield Retreat in the Last Interglaciation. Science 311, 1751 - 1753 (2006), DOI: 10.1126/science.1120808  
+</p>  
   
-  
+<p>
 Stouffer, R.J., J. Yin, J.M. Gregory, K.W. Dixon, M.J. Spelman, W. Hurlin, A.J. Weaver, M. Eby, G.M. Flato, H. Hasumi, A. Hu, J.H. Jungclaus, I.V. Kamenkovich, A. Levermann, M. Montoya, S. Murakami, S. Nawrath, A. Oka, W.R. Peltier, D.Y. Robitaille, A.P. Sokolov, G. Vettoretti, N. Weber. Investigating the Causes of the Response of the Thermohaline Circulation to Past and Future Climate Changes. Journal of Climate 19, 1365-1387 (2006) 
-  
+</p>  
 
+<p>
 Petoukhov V., M. Claussen, A. Berger, M. Crucifix, M. Eby, A. Eliseev, T. Fichefet, A. Ganopolski, H. Goose, I. Kamenkovich, I. Mokhov, M. Montoya, L. Mysak, A. Sokolov, P. Stone, Z. Wang, A. Weaver. EMIC Intercomparison Project (EMIP-CO2): Comparative analysis of EMIC simulations of current climate and equilibrium and transient responses to atmospheric CO2 doubling. Climate Dynamics 25, 363-385 (2005) DOI: 10.1007/s00382- 005-0042-3 
-  
-  
+</p>  
+
+<p>
 Montoya, M., A. Griesel, A. Levermann, J. Mignot, M. Hofmann, A. Ganopolski, S. Rahmstorf. The Earth System Model of intermediate complexity CLIMBER-3-alpha. Part I: description and performance for present day conditions. Climate Dynamics 25, 237-263 (2005) DOI: 10.1007/s00382-005-0044-1 
+</p> 
   
-  
+<p>
 Gregory, J. M., K.W. Dixon, R.J. Stouffer, A.J. Weaver, E. Driesschaert, M. Eby, T. Fichefet, H. Hasumi, A. Hu, J.H. Jungclaus, I.V. Kamenkovich, A. Levermann, M. Montoya, S. Murakami, S. Nawrath, A. Oka, A.P. Sokolov, R.B. Thorpe. A model intercomparison of changes in the Atlantic thermohaline circulation in response to increasing atmospheric CO2 concentration. Geophysical Research Letters, 32 L12703 (2005) DOI: 10.1029/2005GL023209
+</p>
   
-
+<p>
 Levermann, A., A. Griesel, M. Hofmann, M. Montoya, S. Rahmstorf. Dynamic sea level changes following changes in the thermohaline circulation. Climate Dynamics 24, 347-254 (2005) DOI: 10.1007/s00382-004-0505-y
+</p> 
   
-  
-auer, E., A. Ganopolski, M. Montoya. Simulation of the cold climate event 8200 years ago by meltwater outburst from
+<p>
+Bauer, E., A. Ganopolski, M. Montoya. Simulation of the cold climate event 8200 years ago by meltwater outburst from
 Lake Agassiz. Paleoceanography 19, PA3014 (2004) DOI: 10.1029/2004PA001030
-
+</p>
   
+<p>  
 Kubatzki C., Montoya M., Rahmstorf S., Ganopolski A., Claussen M. Comparison of a coupled global model of intermediate complexity and an AOGCM for the last interglacial. Climate Dynamics 16 (10/11), 799-814. DOI: 10.1007/s003820000078 (2000)  
-
+</p>
   
+<p>  
 Montoya M., H. von Storch, T. J. Crowley. Climate Simulation for 125 kBP with a Coupled Ocean-Atmosphere General
 Circulation Model. Journal of Climate 13, 1057-1072 (2000)
+</p>
   
-  
+<p>  
 Montoya M., T. J. Crowley, H. von Storch. Temperatures at the last interglacial simulated by a coupled ocean-
 atmosphere climate model. Paleoceanography 13, 170-177 (1998)
+</p>
   
 </div>
