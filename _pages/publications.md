@@ -9,7 +9,7 @@ nav: true
 
 **Summary**
 
-- <a href="#articles">44 ISI articles</a>
+- <a href="#articles">45 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (7 invited)
 
@@ -46,6 +46,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2022">2022</h3>
+
+<p>
+[45] Kloenne, U., Nauels, A., Pearson, P., DeConto, R. M., Findlay H. S., Hugelius, G., <b>Robinson, A.</b>, Rogelj, J., Schuur, E. A. G., Stroeve, J. and Schleussner, C.-F.: Only halving emissions by 2030 can minimize risks of crossing cryosphere thresholds, Nature Climate Change, https://doi.org/10.1038/s41558-022-01566-4, 2022.
+</p>
 
 <p>
 [44] <b>Robinson, A.</b>, Goldberg, D., and Lipscomb, W. H.: A comparison of the stability and performance of depth-integrated ice-dynamics solvers, The Cryosphere, 16, 689–709, https://doi.org/10.5194/tc-16-689-2022, 2022.
