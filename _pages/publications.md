@@ -5,6 +5,7 @@ title: publications
 description: My <a href="#articles">articles</a>, <a href="#reports">reports</a> and <a href="#thesis">thesis</a>.
 years:
 nav: true
+nav_order: 1
 ---
 
 **Summary**

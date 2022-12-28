@@ -7,6 +7,7 @@ description: Assistant professor, <em>Complutense University of Madrid</em><br/>
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p style="font-size:70%;">
     <a href="https://goo.gl/maps/S6yUhQdTi7ejQ7Ro6" target="_blank">
