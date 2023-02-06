@@ -10,7 +10,7 @@ nav_order: 1
 
 **Summary**
 
-- <a href="#articles">45 ISI articles</a>
+- <a href="#articles">46 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (7 invited)
 
@@ -26,6 +26,7 @@ Scopus profile
 <h1 id="articles">Articles</h1>
 
 [
+<a href="#2023">2023</a>,
 <a href="#2022">2022</a>,
 <a href="#2021">2021</a>, 
 <a href="#2020">2020</a>, 
@@ -45,6 +46,12 @@ Scopus profile
 <br /><br />
 
 <!-- <h3>In progress</h3> -->
+
+<h3 id="2023">2023</h3>
+
+<p>
+[46] Swierczek‐Jereczek, J., <b>Robinson, A.</b>, Blasco, J., Alvarez‐Solas, J. and Montoya, M.: Time‐scale synchronisation of oscillatory responses can lead to non‐monotonous R‐tipping, Scientific Reports, 13, 2104, https://doi.org/10.1038/s41598-023-28771-1, 2023.
+</p>
 
 <h3 id="2022">2022</h3>
 
