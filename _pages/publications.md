@@ -50,7 +50,7 @@ Scopus profile
 <h3 id="2023">2023</h3>
 
 <p>
-[47] Malmierca-Vallet, I., Sime, L. C., and the D–O community members: Dansgaard–Oeschger events in climate models: review and baseline Marine Isotope Stage 3 (MIS3) protocol, Clim. Past, 19, 915–942, https://doi.org/10.5194/cp-19-915-2023, 2023.
+[47] Malmierca-Vallet, I., Sime, L. C., and the <b>D–O community members</b>: Dansgaard–Oeschger events in climate models: review and baseline Marine Isotope Stage 3 (MIS3) protocol, Clim. Past, 19, 915–942, https://doi.org/10.5194/cp-19-915-2023, 2023.
 </p>
 
 <p>
