@@ -10,7 +10,7 @@ nav_order: 1
 
 **Summary**
 
-- <a href="#articles">46 ISI articles</a>
+- <a href="#articles">47 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (7 invited)
 
@@ -48,6 +48,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2023">2023</h3>
+
+<p>
+[47] Malmierca-Vallet, I., Sime, L. C., and the D–O community members: Dansgaard–Oeschger events in climate models: review and baseline Marine Isotope Stage 3 (MIS3) protocol, Clim. Past, 19, 915–942, https://doi.org/10.5194/cp-19-915-2023, 2023.
+</p>
 
 <p>
 [46] Swierczek‐Jereczek, J., <b>Robinson, A.</b>, Blasco, J., Alvarez‐Solas, J. and Montoya, M.: Time‐scale synchronisation of oscillatory responses can lead to non‐monotonous R‐tipping, Scientific Reports, 13, 2104, https://doi.org/10.1038/s41598-023-28771-1, 2023.
