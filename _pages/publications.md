@@ -13,6 +13,8 @@ nav: true
 <h1 id="articles">Articles</h1>
 
 [
+<a href="#2023">2023</a>
+<a href="#2022">2022</a>
 <a href="#2021">2021</a>, 
 <a href="#2020">2020</a>, 
 <a href="#2019">2019</a>, 
@@ -41,7 +43,16 @@ nav: true
 
 <!-- <h3>In progress</h3> -->
 
-
+<h3 id="2023">2023</h3>
+  
+<p>
+Moreno, D., Alvarez-Solas, J., Blasco, J., Montoya, M., and Robinson, A.: Simulating the Laurentide ice sheet of the Last Glacial Maximum, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2022-215, accepted, 2023
+</p>
+  
+<p>
+Swierczek-Jereczek J, Robinson A, Blasco J, Alvarez-Solas J, Montoya M. Time-scale synchronisation of oscillatory responses can lead to non-monotonous R-tipping. Sci Rep. 2023 Feb 6;13(1):2104. doi: 10.1038/s41598-023-28771-1;
+</p>
+  
 <h3 id="2021">2021</h3>
 
 <p>
