@@ -50,7 +50,7 @@ Moreno, D., Alvarez-Solas, J., Blasco, J., Montoya, M., and Robinson, A.: Simula
 </p>
   
 <p>
-Swierczek-Jereczek J, Robinson A, Blasco J, Alvarez-Solas J, Montoya M. Time-scale synchronisation of oscillatory responses can lead to non-monotonous R-tipping. Sci Rep. 2023 Feb 6;13(1):2104. doi: 10.1038/s41598-023-28771-1;
+Swierczek-Jereczek J, Robinson A, Blasco J, Alvarez-Solas J, Montoya M. Time-scale synchronisation of oscillatory responses can lead to non-monotonous R-tipping. Sci Rep. 2023 Feb 6;13(1):2104. https://doi.10.1038/s41598-023-28771-1;
 </p>
   
 <h3 id="2021">2021</h3>
