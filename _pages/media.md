@@ -7,10 +7,15 @@ years:
 nav: true
 ---
 
-<h3 id="2021">2021</h3>
+<h3 id="2023">2023</h3>
 
+<a href="https://www.spiegel.de/wissenschaft/natur/groenland-sedimentproben-aus-dem-kalten-krieg-belegen-eisfreie-zeit-a-697ea1bc-ccce-446b-9994-a946d08663b3?giftToken=35ef69db-08a9-494c-b65e-99c223ae0864" target="_blank">Probe aus dem Kalten Krieg liefert Beweis für Grönlands eisfreie Zeit</a>. Der Spiegel. Comments on advances by Christ et al., Science, 2023. 20 Jul 2023.
+
+<h3 id="2022">2022</h3>
 
 <a href="https://geoscientist.online/sections/features/palaeo-antarctic-ice/" target="_blank">Palaeo-Antarctic ice</a>. GEOSCIENTIST magazine. Comments on advances by Van Breedam et al. publications. 27 Sep 2022.
+
+<h3 id="2021">2021</h3>
 
 <a href="https://www.ecoshock.org/2021/12/extreme-we-just-left-the-old-climate-behind.html" target="_blank">EXTREME: We Just Left the Old Climate Behind</a>. Interview with Radio Ecoshock. 8 Dec 2021.
 
