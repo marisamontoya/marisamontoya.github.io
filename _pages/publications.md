@@ -10,9 +10,9 @@ nav_order: 1
 
 **Summary**
 
-- <a href="#articles">48 ISI articles</a>
+- <a href="#articles">49 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
-- 30+ conference presentations (7 invited)
+- 30+ conference presentations (8 invited)
 
 <a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en" target="_blank">
 Google Scholar profile
@@ -48,6 +48,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2023">2023</h3>
+
+<p>
+[49] Bochow, N., Poltronieri, A., <b>Robinson, A.</b>, Montoya, M., Rypdal, M. and Boers, N.: Overshooting the critical threshold for the Greenland ice sheet, Nature, 622, 528–536, https://doi.org/10.1038/s41586-023-06503-9, 2023.
+</p>
 
 <p>
 [48] Moreno-Parada, D., Alvarez-Solas, J., Blasco, J., Montoya, M., and <b>Robinson, A.</b>: Simulating the Laurentide Ice Sheet of the Last Glacial Maximum, The Cryosphere, 17, 2139–2156, https://doi.org/10.5194/tc-17-2139-2023, 2023.
