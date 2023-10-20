@@ -9,6 +9,10 @@ nav: true
 
 <h3 id="2023">2023</h3>
 
+<a href="https://www.npr.org/2023/10/18/1205601646/a-new-study-points-to-a-key-window-of-opportunity-to-save-greenlands-ice-sheet" target="_blank">A new study points to a key window of opportunity to save Greenland's ice sheet</a>. NPR. 19 Oct 2023.
+
+<a href="https://www.nbcnews.com/science/environment/climate-tipping-points-greenland-s-not-late-ice-sheets-researchers-say-rcna120657" target="_blank">Climate tipping points near for Greenland, but it’s not too late to save ice sheet, researchers say</a>. NBC News. 19 Oct 2023.
+
 <a href="https://www.spiegel.de/wissenschaft/natur/groenland-sedimentproben-aus-dem-kalten-krieg-belegen-eisfreie-zeit-a-697ea1bc-ccce-446b-9994-a946d08663b3?giftToken=35ef69db-08a9-494c-b65e-99c223ae0864" target="_blank">Probe aus dem Kalten Krieg liefert Beweis für Grönlands eisfreie Zeit</a>. Der Spiegel. Comments on advances by Christ et al., Science, 2023. 20 Jul 2023.
 
 <h3 id="2022">2022</h3>
