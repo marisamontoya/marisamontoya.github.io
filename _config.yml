@@ -71,13 +71,7 @@ scholar_userid: 3cU6ewMAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-3519-5293 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-<<<<<<< HEAD
 publons_id: 1604784 # your ID on Publons
-=======
-publons_id: # your ID on Publons
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: # your OSF ID
->>>>>>> 1fa3febcc70d983a033121f23b995a3a0ea53fd4
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
@@ -132,12 +126,8 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-<<<<<<< HEAD
   repo: alex-robinson/alex-robinson.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: 
-=======
-  repo:                          # <your-github-user-name>/<your-github-repo-name>
->>>>>>> 1fa3febcc70d983a033121f23b995a3a0ea53fd4
   category: Comments             # name of the category under which discussions will be created
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
@@ -172,20 +162,8 @@ collections:
     output: true
     permalink: /projects/:path/
 
-<<<<<<< HEAD
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit:  # leave blank to include all the news in the `_news` folder
-=======
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
->>>>>>> 1fa3febcc70d983a033121f23b995a3a0ea53fd4
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
