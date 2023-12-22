@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: page
 permalink: /publications/
@@ -249,4 +248,3 @@ Climate simulations for the last interglacial by means of climate models of diff
 </p>
 
 </div>
-
