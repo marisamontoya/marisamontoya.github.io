@@ -37,6 +37,3 @@ horizontal: false
 <p>
 2015-2017	Modelling climate variability with climate models of different complexity, PI M. Montoya, Spanish Ministry for the Environment, 66000 €
 </p>
-
-
-</div>
