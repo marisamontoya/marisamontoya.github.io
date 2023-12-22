@@ -44,9 +44,13 @@ nav: true
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2023">2023</h3>
-  
+
 <p>
-Moreno, D., Alvarez-Solas, J., Blasco, J., Montoya, M., and Robinson, A.: Simulating the Laurentide ice sheet of the Last Glacial Maximum, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2022-215, accepted, 2023
+Bochow, N., Poltronieri, A., Robinson, A., Montoya, M., Rypdal, M., Boers, N.  Overshooting the critical threshold for the Greenland ice sheet. Nature 622, 528–536 (2023). https://doi.org/10.1038/s41586-023-06503-9; D1.
+<p>
+
+<p>
+Moreno-Parada, D., Alvarez-Solas, J., Blasco, J., Montoya, M., and Robinson, A.: Simulating the Laurentide Ice Sheet of the Last Glacial Maximum, The Cryosphere, 17, 2139–2156, https://doi.org/10.5194/tc-17-2139-2023, 2023.
 </p>
   
 <p>
