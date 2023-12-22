@@ -48,11 +48,9 @@ nav: true
 <p>
 Bochow, N., Poltronieri, A., Robinson, A., Montoya, M., Rypdal, M., Boers, N.  Overshooting the critical threshold for the Greenland ice sheet. Nature 622, 528–536 (2023). https://doi.org/10.1038/s41586-023-06503-9; D1.
 <p>
-
 <p>
 Moreno-Parada, D., Alvarez-Solas, J., Blasco, J., Montoya, M., and Robinson, A.: Simulating the Laurentide Ice Sheet of the Last Glacial Maximum, The Cryosphere, 17, 2139–2156, https://doi.org/10.5194/tc-17-2139-2023, 2023.
-</p>
-  
+</p> 
 <p>
 Swierczek-Jereczek J, Robinson A, Blasco J, Alvarez-Solas J, Montoya M. Time-scale synchronisation of oscillatory responses can lead to non-monotonous R-tipping. Sci Rep. 2023 Feb 6;13(1):2104. https://doi.10.1038/s41598-023-28771-1;
 </p>
