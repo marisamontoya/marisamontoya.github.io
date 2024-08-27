@@ -46,14 +46,14 @@ nav: true
 <h3 id="2024">2024</h3>
 
 <p>
-Tabone, I., Robinson, A., Montoya, M. et al. Holocene thinning in central Greenland controlled by the Northeast Greenland Ice Stream. Nat Commun 15, 6434 (2024). https://doi.org/10.1038/s41467-024-50772-5
+Tabone, I., Robinson, A., Montoya, M. et al. Holocene thinning in central Greenland controlled by the Northeast Greenland Ice Stream. Nat Commun 15, 6434 (2024). https://doi.org/10.1038/s41467-024-50772-5.
 <p>
 <p>
 Swierczek-Jereczek, J., Montoya, M., Latychev, K., Robinson, A., Alvarez-Solas, J., and Mitrovica, J.: FastIsostasy v1.0 – a regional, accelerated 2D glacial isostatic adjustment (GIA) model accounting for the lateral variability of the solid Earth, Geosci. Model Dev., 17, 5263–5290, https://doi.org/10.5194/gmd-17-5263-2024, 2024.
 
 <h3 id="2023">2023</h3>
 <p>
-Bochow, N., Poltronieri, A., Robinson, A., Montoya, M., Rypdal, M., Boers, N.  Overshooting the critical threshold for the Greenland ice sheet. Nature 622, 528–536 (2023). https://doi.org/10.1038/s41586-023-06503-9; D1.
+Bochow, N., Poltronieri, A., Robinson, A., Montoya, M., Rypdal, M., Boers, N.  Overshooting the critical threshold for the Greenland ice sheet. Nature 622, 528–536 (2023). https://doi.org/10.1038/s41586-023-06503-9.
 <p>
 <p>
 Moreno-Parada, D., Alvarez-Solas, J., Blasco, J., Montoya, M., and Robinson, A.: Simulating the Laurentide Ice Sheet of the Last Glacial Maximum, The Cryosphere, 17, 2139–2156, https://doi.org/10.5194/tc-17-2139-2023, 2023.
