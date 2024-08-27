@@ -43,12 +43,15 @@ nav: true
 
 <!-- <h3>In progress</h3> -->
 
+<h3 id="2024">2024</h3>
+
 <p>
 Tabone, I., Robinson, A., Montoya, M. et al. Holocene thinning in central Greenland controlled by the Northeast Greenland Ice Stream. Nat Commun 15, 6434 (2024). https://doi.org/10.1038/s41467-024-50772-5
 <h3 id="2023">2023</h3>
 <p>
 <p>
-  
+
+<h3 id="2023">2023</h3>
 <p>
 Bochow, N., Poltronieri, A., Robinson, A., Montoya, M., Rypdal, M., Boers, N.  Overshooting the critical threshold for the Greenland ice sheet. Nature 622, 528–536 (2023). https://doi.org/10.1038/s41586-023-06503-9; D1.
 <p>
