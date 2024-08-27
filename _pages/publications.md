@@ -37,14 +37,13 @@ nav: true
 <a href="#2002">2002</a>,
 <a href="#2001">2001</a>,
 <a href="#1999">2000</a>,
-]
+
 
 <br /><br />
 
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2024">2024</h3>
-
 <p>
 Tabone, I., Robinson, A., Montoya, M. et al. Holocene thinning in central Greenland controlled by the Northeast Greenland Ice Stream. Nat Commun 15, 6434 (2024). https://doi.org/10.1038/s41467-024-50772-5
 <p>
