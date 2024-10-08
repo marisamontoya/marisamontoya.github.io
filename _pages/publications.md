@@ -45,6 +45,15 @@ nav: true
 
 <h3 id="2024">2024</h3>
 <p>
+Blasco, J., Tabone, I., Moreno-Parada, D., Robinson, A., Alvarez-Solas, J., Pattyn, F., and Montoya, M.: Antarctic tipping points triggered by the mid-Pliocene warm climate, Clim. Past, 20, 1919–1938, https://doi.org/10.5194/cp-20-1919-2024, 2024.
+<p>
+<p>
+Juarez-Martinez, A., Blasco, J., Robinson, A., Montoya, M., and Alvarez-Solas, J.: Antarctic sensitivity to oceanic melting parameterizations, The Cryosphere, 18, 4257–4283, https://doi.org/10.5194/tc-18-4257-2024, 2024.
+<p>
+<p>
+Moreno-Parada, D., Robinson, A., Montoya, M., and Alvarez-Solas, J.: Analytical solutions for the advective–diffusive ice column in the presence of strain heating, The Cryosphere, 18, 4215–4232, https://doi.org/10.5194/tc-18-4215-2024, 2024
+<p>
+<p>
 Seroussi, H., Pelle, T., Lipscomb, W. H., Abe-Ouchi, A., Albrecht, T., Alvarez-Solas, J., Asay-Davis, X., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Garbe, J., Gillet-Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., Jourdain, N. C., Klose, A. K., Langebroek, P. M., Leguy, G. R., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Quiquet, A., Reese, R., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Wang, Y., Zhao, C., Zwinger, T.: Evolution of theAntarctic Ice Sheet over the next three centuries from an ISMIP6 modelensemble. Earth's Future, 12,e2024EF004561. https://doi.org/10.1029/2024EF004561
 <p>
 <p>
