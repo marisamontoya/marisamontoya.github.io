@@ -13,11 +13,11 @@ horizontal: false
 </p>
 
 <p>
-2025-2028: Mejora de la representación de los aspectos críticos para la incertidumbre en las proyecciones de los mantos de hielo (CREEP). PID2024-156476OB-I00, Ministerio de Ciencia e Innovación.  Proyectos Generación de Conocimiento 2024. PI: M. Montoya. 01/09/2025-31/08/2028
+2025-2028: Mejora de la representación de los aspectos críticos para la incertidumbre en las proyecciones de los mantos de hielo (CREEP). PID2024-156476OB-I00, Ministerio de Ciencia e Innovación.  Proyectos Generación de Conocimiento 2024. PI: M. Montoya. 
 </p>
 
 <p>
-2024-2028: Climate-related tipping points (ClimTip). HORIZON-CL5-2023-D1-01-02.  HORIZON Research and Innovation Actions. Coordinator: N. Boers. PI UCM: M. Montoya. 01/03/2024-29/02/2028.
+2024-2028: Climate-related tipping points (ClimTip). HORIZON-CL5-2023-D1-01-02.  HORIZON Research and Innovation Actions. Coordinator: N. Boers. PI UCM: M. Montoya.
 </p>
 
 <p>
