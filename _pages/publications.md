@@ -12,6 +12,8 @@ nav: true
 
 <h1 id="articles">Articles</h1>
 
+<a href="#2024">2026</a>,
+<a href="#2024">2025</a>,
 <a href="#2024">2024</a>,
 <a href="#2023">2023</a>,
 <a href="#2022">2022</a>,
@@ -43,6 +45,31 @@ nav: true
 
 <!-- <h3>In progress</h3> -->
 
+<h3 id="2024">2026</h3>
+<p>
+Juarez-Martinez, A., Robinson, A., Swierczek-Jereczek, J., Blasco, J., Alvarez-Solas, J., and Montoya, M.: Parameterizing tidal-water intrusions in long-term Antarctic ice-sheet projections, The Cryosphere, 20, 5345–5363, https://doi.org/10.5194/tc-20-5345-2026, 2026.
+Swierczek-Jereczek, J., Alvarez-Solas, J., Robinson, A., Blasco, J. Montoya, M. Antarctic marine-based ice destabilized when warming outpaces solid-Earth feedbacks. Nature Geoscience, 2026, accepted, D1.
+<p>  
+<p>
+Kypke, K., Montoya, M., Robinson, A., Alvarez-Solas, J., Swierczek-Jereczek, J., and Ditlevsen, P.: Chaotic fluctuations in Greenland ice streams limit predictability of ice sheet collapse, Earth Syst. Dynam.,17, 769–794, https://doi.org/10.5194/esd-17-769-2026, 2026. Highlight paper.
+<p>
+<p>
+Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., Robinson, A., and Montoya, M.: Exploring the Mid-Pleistocene transition with a simple physical model, Clim. Past, 22, 625–646, https://doi.org/10.5194/cp-22-625-2026, 2026.
+<p>
+<p>
+Gutiérrez-González, L., Robinson, A., Alvarez-Solas, J., Tabone, I., Swierczek-Jereczek, J., Moreno-Parada, D., and Montoya, M.: Hysteresis of the Greenland ice sheet from the Last Glacial Maximum to the future, The Cryosphere, 20, 1139–1162, https://doi.org/10.5194/tc-20-1139-2026, 2026
+<p>
+<p>
+<h3 id="2024">2025</h3>
+Diamond, R. Rachel, David Schroeder, Laura C. Jackson, Paul R. Holland, Eduardo Alastrué de Asenjo, Katinka Bellomo, Gokhan Danabasoglu, Aixue Hu, Johann Jungclaus, Marisa Montoya, Virna L. Meccia, Oleg A. Saenko, Didier Swingedouw. A weakened AMOC could cause Southern Ocean temperature and sea-ice change on decadal timescales. Journal of Geophysical Research  https://doi.org/10.1029/2024JC02202.
+<p>
+<p>
+Moreno-Parada, D., Robinson, A., Montoya, M., and Alvarez-Solas, J.: Description and validation of the ice-sheet model Nix v1.0, Geosci. Model Dev., 18, 3895–3919, https://doi.org/10.5194/gmd-18-3895-2025, 2025.
+<p>
+<p>
+Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., Robinson, A., and Montoya, M.: A simple physical model for glacial cycles, Earth Syst. Dynam., 16, 915–937, https://doi.org/10.5194/esd-16-915-2025, 2025.
+<p>
+<p>
 <h3 id="2024">2024</h3>
 <p>
 Blasco, J., Tabone, I., Moreno-Parada, D., Robinson, A., Alvarez-Solas, J., Pattyn, F., and Montoya, M.: Antarctic tipping points triggered by the mid-Pliocene warm climate, Clim. Past, 20, 1919–1938, https://doi.org/10.5194/cp-20-1919-2024, 2024.
