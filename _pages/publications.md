@@ -46,7 +46,6 @@ nav: true
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2024">2026</h3>
-  
 <p>
 Swierczek-Jereczek, J., Alvarez-Solas, J., Robinson, A., Blasco, J. Montoya, M. Antarctic marine-based ice destabilized when warming outpaces solid-Earth feedbacks. Nature Geoscience, 2026, accepted.
 <p>
