@@ -46,13 +46,13 @@ nav: true
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2024">2026</h3>
-<p>
-Juarez-Martinez, A., Robinson, A., Swierczek-Jereczek, J., Blasco, J., Alvarez-Solas, J., and Montoya, M.: Parameterizing tidal-water intrusions in long-term Antarctic ice-sheet projections, The Cryosphere, 20, 5345–5363, https://doi.org/10.5194/tc-20-5345-2026.
-<p>  
   
 <p>
 Swierczek-Jereczek, J., Alvarez-Solas, J., Robinson, A., Blasco, J. Montoya, M. Antarctic marine-based ice destabilized when warming outpaces solid-Earth feedbacks. Nature Geoscience, 2026, accepted.
-<p>  
+<p>
+<p>
+Juarez-Martinez, A., Robinson, A., Swierczek-Jereczek, J., Blasco, J., Alvarez-Solas, J., and Montoya, M.: Parameterizing tidal-water intrusions in long-term Antarctic ice-sheet projections, The Cryosphere, 20, 5345–5363, https://doi.org/10.5194/tc-20-5345-2026.
+<p>    
 <p>
 Kypke, K., Montoya, M., Robinson, A., Alvarez-Solas, J., Swierczek-Jereczek, J., and Ditlevsen, P.: Chaotic fluctuations in Greenland ice streams limit predictability of ice sheet collapse, Earth Syst. Dynam.,17, 769–794, https://doi.org/10.5194/esd-17-769-2026, 2026. Highlight paper.
 <p>
