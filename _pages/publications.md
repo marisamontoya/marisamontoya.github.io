@@ -47,8 +47,9 @@ nav: true
 
 <h3 id="2024">2026</h3>
 <p>
-Juarez-Martinez, A., Robinson, A., Swierczek-Jereczek, J., Blasco, J., Alvarez-Solas, J., and Montoya, M.: Parameterizing tidal-water intrusions in long-term Antarctic ice-sheet projections, The Cryosphere, 20, 5345–5363, https://doi.org/10.5194/tc-20-5345-2026, 2026.
+Juarez-Martinez, A., Robinson, A., Swierczek-Jereczek, J., Blasco, J., Alvarez-Solas, J., and Montoya, M.: Parameterizing tidal-water intrusions in long-term Antarctic ice-sheet projections, The Cryosphere, 20, 5345–5363, https://doi.org/10.5194/tc-20-5345-2026.
 <p>  
+  
 <p>
 Swierczek-Jereczek, J., Alvarez-Solas, J., Robinson, A., Blasco, J. Montoya, M. Antarctic marine-based ice destabilized when warming outpaces solid-Earth feedbacks. Nature Geoscience, 2026, accepted.
 <p>  
